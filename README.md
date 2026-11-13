@@ -17,7 +17,7 @@ Fishers, Indiana, USA · [github.com/voantony](https://github.com/voantony) · a
 
 ## Other published docs
 
-I also maintain the user and install documentation for [OpenCourtVision](https://gitlab.com/antonyvo/opencourtvision), a local audio-and-vision pipeline that finds points in a tennis match, tracks the score, and cuts 4K highlights. The live README is the best copy of that writing.
+I also maintain the user and install documentation for [OpenCourtVision](https://github.com/voantony/opencourtvision-oss), a local audio-and-vision pipeline that finds points in a tennis match, tracks the score, and cuts 4K highlights. The live README is the best copy of that writing.
 
 ## Notes
 
